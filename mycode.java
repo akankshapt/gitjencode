@@ -1,6 +1,6 @@
 public class mycode{
 	public static void main(String[] args) {
-		System.out.println("Git Jenkin Integration 2");
+		System.out.println("Git Jenkin Integration modification");
 	}
 		
 	
